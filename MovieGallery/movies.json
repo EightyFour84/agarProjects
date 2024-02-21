@@ -1,0 +1,20 @@
+[
+  {
+    "imdbId": "m001",
+    "title": "Spirited Away",
+    "releaseDate": "2001-07-20",
+    "trailerLink": "https://www.youtube.com/watch?v=ByXuk9QqQkk&ab_channel=CrunchyrollStoreAustralia",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "poster": "https://gkids.com/wp-content/uploads/2023/02/GF23_Posters_2023-02-01_11_Spirited-692x1024.jpg",
+    "backdrops": [
+      "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/12/8-best-characters-in-spirited-away-ranked.jpg"
+    ],
+    "reviewIds": []
+  }
+]
