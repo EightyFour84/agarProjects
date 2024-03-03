@@ -2,7 +2,7 @@ Hi!Welcome to my coding portfolio!
 Im a Mechatrtronics engineer, with a passion to code and find solutions to complex problems. While studying, I had the opportunity to follow one of my hobbies: compete and travel to multiple robotics competitions
 
 Mini Rescue Robot
- 
+ ![Obelisk 4](https://github.com/EightyFour84/agarProjects/assets/30914135/04492fda-12db-4216-ae2a-3823bc93a4f1)
 
 Rescue Robot
  
