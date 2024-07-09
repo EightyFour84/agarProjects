@@ -26,6 +26,7 @@ This repository is a collection of projects and code snippets that showcase my s
 
 - Java
 - JavaScript
+- Python
 - HTML/CSS
 
 ## Technologies
@@ -33,6 +34,7 @@ This repository is a collection of projects and code snippets that showcase my s
 - Spring Boot
 - MongoDB
 - React
+- OpenCV
 
 ## Contact
 Feel free to reach out if you have any questions, suggestions, or if you'd like to collaborate on a project.
